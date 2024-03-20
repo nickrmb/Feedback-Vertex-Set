@@ -1,4 +1,4 @@
-# IRQ - Intersection Range Querries
+# IRQ - Feedback Vertex Set
 
 <div align="center">
 <pre>
@@ -24,9 +24,12 @@ Feedback Vertex Set
 
 </div>
 
-See report.pdf to see the report.
+This project compares algorithms for the [Feedback Vertex Set](https://en.wikipedia.org/wiki/Feedback_vertex_set) for vertex-weighted graphs.
 
+See [report.pdf](report.pdf) to see a detailed report about featured algorithms. <br>
 This document describes how to use and test the given java programs.
+
+Disclaimer: This project was created for a course taken at the University of Constance.
 
 # <ins>**Step 1: Prerequisites**</ins>
 
